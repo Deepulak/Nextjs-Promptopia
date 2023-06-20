@@ -1,0 +1,7 @@
+// Data Fetching
+
+// 1. Server Side Rendering (SSR)
+// 2. Server Side Generation (SSG)
+// 1. Incremental Static Generation (ISG)
+
+start the video from 1 hour 13 minute29 second
